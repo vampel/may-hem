@@ -66,6 +66,6 @@ agradecimientos especiales a los desarrolladores de los Firmware e inspiracion p
 #
 por que MAY-HEM y no MAYHEM?
 
--HEM = Hecho en Mexico.
+- HEM = Hecho en Mexico.
 
 ![](images/V_for_sign.png)
