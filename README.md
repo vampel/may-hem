@@ -32,6 +32,12 @@ Estos fueron los Materiales usados:
 ![](images/RawMats.jpeg)
 
 #
+Cargando firmware al ESP32-CAM:
+
+![](images/UFirmware.jpeg)
+
+- los firmware los encuentras en los links de abajo (agradecimientos).
+#
 el diseño:
 
 ![](images/design.jpg)
