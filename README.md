@@ -4,6 +4,8 @@ Fliper Zero board diseñada basandome en las boards que hay en linea con la dife
 
 Esta basada en MAYHEM y se usan los firmware de MAYHEM y EVIL PORTAL(en otro ESP32-CAM).
 
+**Nota Importante: solo existen 10 y logico, yo me quedare con una.. asi que solo hay 9 disponibles y no creo pedir mas...**
+
 ![](images/CC1101onFZ.jpeg)
 #
 Por que Modular?
