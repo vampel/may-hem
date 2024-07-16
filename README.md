@@ -9,9 +9,10 @@ Esta basada en MAYHEM y se usan los firmware de MAYHEM y EVIL PORTAL(en otro ESP
 ![](images/CC1101onFZ.jpeg)
 #
 Por que Modular?
-- en vez de cargar con tantas tarjetas(boards) de diferentes tamaños en tu bolsa, solo lleva los modulos.
-- con los conectores hembra de 1x8p ya no es necesario soldar el ESP32-CAM.
-- con los conectores hembra de 2x4p ya no es necasario soldar el nrf24l01 / CC1101.
+- En vez de cargar con tantas tarjetas(boards) de diferentes tamaños en tu bolsa, solo lleva los modulos.
+- Con los conectores hembra de 1x8p ya no es necesario soldar el ESP32-CAM.
+- Con los conectores hembra de 2x4p ya no es necasario soldar el nrf24l01 / CC1101.
+- Compacta (6.6cm x 4.3cm)
 
 ![](images/modularview.jpeg)
 
@@ -39,7 +40,13 @@ Cargando firmware al ESP32-CAM:
 
 ![](images/UFirmware.jpeg)
 
-- los firmware los encuentras en los links de abajo (agradecimientos).
+Esta es la version que mas me gusto, ambos sin antena, se supone que el flipper zero es portatil.. por eso su diseño compacto(6.6cm x 4.3cm) en comparacion con los que les meten hasta pantalla y antena de 30cm..
+
+- Los firmware los encuentras en los links de abajo (agradecimientos).
+
+- Los Firmware los puedes cargar por UART (con esta board)
+
+- nrf24l01 Recomendacion seguir el manual del capacitor de 10uf
 #
 el diseño:
 
