@@ -17,6 +17,10 @@ Por que Modular?
 ![](images/modularview.jpeg)
 
 pd. se desoldo el GPIO y se invirtio
+
+![Largo](images/large.jpeg).
+
+![Alto](images/height.jpeg).
 #
 Cambiando modulos de nrf24l01 / CC1101
 
