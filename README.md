@@ -39,6 +39,14 @@ Estos fueron los Materiales usados:
 
 ![](images/RawMats.jpeg)
 
+UPDATE! Para evitar el capacitor que recomiendan en todos los tutoriales de arduino/raspberry sobre el NRF/CC1101 se le agrego un capacitor SMD (805 10v 10uf) que ira entre los conectores 3.3v y GND directo en la board asi no abra perdida de voltaje al entrar en accion la antena del NRF24 (al CC1101 no le afecta por que solo es un capacitor para evitar perdida de energia)
+
+![smd](images/smd.jpeg)
+
+Asi evitamos lo siguiente:
+
+![capacitor](images/capacitortutorial.jpg)
+
 #
 Cargando firmware al ESP32-CAM:
 
